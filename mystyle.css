@@ -1,0 +1,253 @@
+* {
+  background-color: black;
+}
+
+a.nava {
+  font-size: 20px !important;
+  margin-left: 80px;
+  padding: 40px !important;
+}
+
+#navbarNavAltMarkup {
+  margin-left: 90px !important;
+  padding-top: 20px;
+}
+
+.vl {
+  border-left: 3px solid black;
+  opacity: 0.2;
+  height: 500px;
+  position: absolute;
+  right: 20%;
+  margin-right: 30px;
+  margin-top: 0;
+  top: 34%;
+}
+
+#hedaer-img {
+  margin-left: 80px;
+  margin-top: 40px;
+  padding-bottom: 20px;
+}
+
+body {
+  background-color: black !important;
+}
+
+#cake {
+  margin-left: 200px;
+  margin-top: 40px;
+}
+
+#intro {
+  margin-top: 160px;
+  margin-right: 100px;
+  text-align: center;
+  color: #fff;
+  font-family: 'Courgette', cursive;
+}
+
+#header1 {
+  color: #8B1819;
+  letter-spacing: 0.5;
+  margin-bottom: 20px;
+}
+
+#header2 {
+  margin-bottom: 20px;
+}
+
+a.navbar-brand {
+  font-family: 'Caveat', cursive;
+  font-size: 40px;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+#header1 {
+  font-family: 'Caveat', cursive;
+  font-size: 60px;
+}
+
+#menu {
+  padding-top: 700px;
+}
+
+#menu-header {
+  color: #8B1819;
+  margin-left: 60px;
+  text-align: center;
+  font-family: 'Caveat', cursive;
+}
+
+.menu-dish {
+  margin-top: 40px;
+  height: 500px;
+  border: 1px dotted #8B1819;
+  border-top: none;
+  border-bottom: none;
+  padding: 40px;
+  margin: 200px;
+  padding-left: 100px;
+}
+
+#first {
+  margin-right: 60px;
+}
+
+#brownies {
+  float: left;
+}
+
+#brownies-text {
+  color: #8B1819;
+  margin-left: 20px;
+  float: left;
+  text-align: center;
+}
+
+#brownies-text h4.header4 {
+  padding-top: 20px;
+  color: #fff;
+}
+
+#second {
+  margin-top: 150px;
+  float: right;
+  margin-right: 100px;
+}
+
+#cheesecake-text {
+  color: #8B1819;
+  margin-left: 10px;
+  float: left;
+  margin-right: 20px;
+  text-align: center;
+}
+
+#cheesecake-text h4.header4 {
+  padding-top: 20px;
+  color: #fff;
+}
+
+#third {
+  margin-right: 60px;
+}
+
+#strawberrycake {
+  float: left;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+#strawberrycake-text {
+  color: #8B1819;
+  text-align: center;
+  margin-top: 250px;
+  width: 400px;
+}
+
+#strawberrycake-text h4.header4 {
+  padding-top: 20px;
+  margin-left: 0 !important;
+  color: #fff;
+}
+
+.offer-card {
+  width: 30%;
+  margin-left: 100px;
+  background-color: #8B1819 !important;
+  color: white;
+}
+
+.cardd1 {
+  right: 200px;
+}
+
+.cardd2 {
+  margin-left: 40px;
+  /* right: 200px; */
+  left: 200px;
+}
+
+.price {
+  font-weight: bold;
+}
+
+#footer {
+  margin: 0;
+  height: 150;
+  text-align: center;
+  padding: 400px;
+  padding-bottom: 40px;
+}
+
+#footer hr {
+  background-color: #8B1819;
+  margin: auto 0 !important;
+  margin-bottom: 60px;
+}
+
+#footer a {
+  color: white;
+}
+
+#footer p {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+  letter-spacing: 1.5px;
+}
+
+#icons a {
+  padding-right: 5px;
+}
+
+/* LOGIN */
+.vl {
+  border-left: 2px solid #8B1819;
+  height: 500px;
+  position: absolute;
+  right: 20%;
+  margin-left: -3px;
+  top: 20%;
+}
+
+.fform {
+  width: 40% !important;
+  margin-left: 200px;
+  margin-top: 100px;
+}
+
+.lf {
+  padding-top: 200px !important;
+}
+
+#log-as h3 {
+  color: #fff;
+  float: right;
+  font-size: 20px;
+  opacity: .5;
+  margin-right: 100px;
+  margin-top: -300px;
+}
+
+#log-as h3#header3-2 {
+  margin-top: -250px;
+  margin-right: 85px;
+}
+
+#log-as h3#header3-3 {
+  margin-top: -200px;
+  margin-right: 75px;
+}
+
+h3 a {
+  color: white;
+}
+
+h3 a:hover {
+  color: white;
+  text-decoration: none;
+  opacity: 0.3;
+}
